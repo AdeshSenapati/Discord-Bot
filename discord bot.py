@@ -1,7 +1,7 @@
 import discord
 import pyjokes
 
-TOKEN = "NDY3OTI5MjYyOTYwMTQ4NDkw.W0rfFQ.t5AfsrRvsdgR8CATXlHiABbb9g4"
+TOKEN = "....."
 
 client = discord.Client()
 
